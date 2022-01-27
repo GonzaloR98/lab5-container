@@ -25,3 +25,5 @@ singularity exec /nas/hdd-0/singularity_images/python_3-9-1.sif g++ --version
 echo "Ejecutando el archivo k-mer13 para C++ y midiendo su tiempo de ejecucion:"
 echo
 time ./k-mer13
+
+module unload singularity/3.8.0
