@@ -1,0 +1,36 @@
+Evaluando el tiempo de ejecucion del programa k-mers en c++ para longitudes de 13 k-mers:
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,712s
+user	0m0,709s
+sys	0m0,002s
+Evaluando el tiempo de ejecucion del programa k-mers en c++ para longitudes de 14 k-mers:
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,945s
+user	0m2,942s
+sys	0m0,000s
+Evaluando el tiempo de ejecucion del programa k-mers en python para longitudes de 13 k-mers:
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m38,795s
+user	1m38,643s
+sys	0m0,004s
+Evaluando el tiempo de ejecucion del programa k-mers en python para longitudes de 14 k-mers:
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m27,301s
+user	6m26,724s
+sys	0m0,007s
