@@ -34,3 +34,42 @@ Finish!
 real	6m27,301s
 user	6m26,724s
 sys	0m0,007s
+
+Evaluacion usando la imagen Singularity
+
+Evaluando el tiempo de ejecucion del programa k-mers en c++ para longitudes de 13 k-mers:
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m1,662s
+user	0m0,793s
+sys	0m0,143s
+Evaluando el tiempo de ejecucion del programa k-mers en c++ para longitudes de 14 k-mers:
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m3,005s
+user	0m2,838s
+sys	0m0,125s
+Evaluando el tiempo de ejecucion del programa k-mers en python para longitudes de 13 k-mers:
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m34,743s
+user	1m34,285s
+sys	0m0,197s
+Evaluando el tiempo de ejecucion del programa k-mers en python para longitudes de 14 k-mers:
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m8,430s
+user	6m7,672s
+sys	0m0,188s
